@@ -1,0 +1,176 @@
+html, body {
+  height: 100%;
+  width: 100%;
+  margin: 0px 0px;
+  background-color: #dedede;
+}
+
+h1,h2,h3 {
+  text-align: center;
+  margin: 0px 0px;
+}
+
+#saudacao {
+  text-align: center;
+  margin: 50px 0px;
+}
+
+header{
+  float: right;
+}
+
+.nalogar{
+  padding: 5px;
+  display: inline-block;
+  border-style: outset;
+  text-align: center;
+  justify-content: center;
+  width: 110px;
+  overflow: none;
+  background-color: #bababa;
+}
+
+.logar:hover{
+  border-style: groove;
+  padding: 5px;
+}
+
+#logarAnfitria{
+  font-style: none;
+  text-decoration-line: none;
+}
+
+
+.usuarias{
+  float: center;
+  text-align: center;
+  background-color: #bababa;
+  width: 55%;
+  margin: 0px auto 0px auto;
+}
+
+/* anterior
+.usuarias{
+  float: center;
+  text-align: center;
+  background-color: #bababa;
+}
+*/
+
+/* Textar
+.usuarias{
+  float: center;
+  text-align: center;
+  background-color: #bababa;
+  width: fit-content;
+  
+}*/
+
+.nadestaque{
+  float: right;
+  list-style-type: none;
+  background-color: #fbff00;
+  display: block,inline;
+  padding: 4px;
+  text-decoration-line: none;
+}
+
+.destaque:hover{
+  float: right;
+  text-decoration: none;
+  margin: 0px;
+  padding: 4px;
+  display: block,inline;
+}
+
+.adiinfo{
+  margin: 100px 20px 100px 20px;
+  padding: 10px 30px 30px 30px;
+  background-color: #bababa;
+  text-align: center;
+  display: block, flex;
+
+}
+
+#amarelo{
+  justify-self: left;
+  list-style-type: none;
+  background-color: #fbff00;
+  padding: 0px 26px 13px 1119.5px;
+  width: 175.5px;
+  text-decoration: none;
+  margin: 0px;
+  overflow: auto;
+}
+
+#abas {
+  display: inline-block;
+  padding: 30px 0px 0px;
+  background-color: #1e00ff;
+  list-style-type: none;
+  overflow: hidden;
+  width: 1494px;
+  margin: 0;
+}
+.navegacao{
+  display: vertical-line;
+  list-style-type: none;
+}
+
+#sobrenos{
+  float: center;
+  background-color: #bdbcbc;
+  text-align: center;
+}
+
+#parc{
+  background-color: #bababa;
+  padding:0px 0px 10px 0px;
+  height:fit-content;
+}
+
+#contatos{
+  list-style:none;
+  margin: 20px 10px 10px 30px;
+  padding:0px 300px 0px 0px;
+}
+
+#comopart{
+  background-color: ;
+}
+
+#ajuda{
+  background-color: #322593;
+}
+
+
+
+.campoLogIn {
+  margin: 100px 20px 100px 20px;
+  padding: 10px 30px 30px 30px;
+  background-color: #bababa;
+  text-align: center;
+  display: block, flex;
+}
+
+#midia{
+  padding: 10px 30px 40px 30px;
+  background-color: #bababa;
+  display: block, flex;
+  height:fit-content;
+}
+
+#midiasContatos{
+  margin:0px;
+  padding: 15px 0px 0px 0px;
+}
+
+#midiaTexto{
+  background-color: #bababa;
+  width: 180px;
+  overflow: scroll;
+  overflow-x: hidden;
+  height: 90px;
+  float: right;
+  margin:0px;
+}
